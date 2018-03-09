@@ -1,0 +1,8 @@
+.Person-Card {
+    margin: 2% 40%;
+    align-content: center;
+    flex-direction: column;
+    width: 20%;
+    border: 5px solid black;
+}
+
